@@ -1,0 +1,21 @@
+body {
+    /*background-color: #cde0d7;*/
+    background: linear-gradient(#fffce9,#ffffff);
+}
+.title_size {
+    font-size: 25px;
+    color: #eace07;
+    text-align: center;
+}
+.welcome {
+    color: #fcb23d;
+    font-size: 30px;
+    font-family: "华文行楷";
+    /*font-weight: bold;*/
+    overflow: hidden;
+    display: flex;
+    margin: 250px auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
